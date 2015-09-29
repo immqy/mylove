@@ -5,8 +5,8 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.mqy.loveyou"
-        minSdkVersion 8
+        applicationId "com.mqy.loveyou.du"
+        minSdkVersion 17
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"

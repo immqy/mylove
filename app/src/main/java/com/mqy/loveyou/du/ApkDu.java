@@ -1,4 +1,4 @@
-package com.mqy.loveyou;
+package com.mqy.loveyou.du;
 
 /**
  * Created by dujinyang on 2015/9/29.
