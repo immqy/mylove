@@ -17,8 +17,8 @@ properties.load(project.rootProject.file('local.properties').newDataInputStream(
 def developerId = properties.getProperty("developer.id")
 def developerName = properties.getProperty("developer.name")
 def developerEmail = properties.getProperty("developer.email")
-def bintrayUser = properties.getProperty("bintray.user")
-def bintrayApikey = properties.getProperty("bintray.apikey")
+def bintrayUser = properties.getProperty("BINTRAY_USER")
+def bintrayApikey = properties.getProperty("BINTRAY_KEY")
 
 
 
